@@ -1,20 +1,23 @@
 ﻿<Properties StartupConfiguration="{9EBD5E98-8875-4D0F-85D2-A45B3C291E03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Models/ViewModels/LandingPageVM.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Services/Interfaces/IRemoteMovieService.cs">
     <Files>
       <File FileName="MovieProDemo/Models/Database/MovieCast.CS" Line="22" Column="2" />
-      <File FileName="MovieProDemo/Models/Database/MovieCrew.cs" Line="22" Column="2" />
-      <File FileName="MovieProDemo/Models/Database/Collection.cs" Line="16" Column="1" />
-      <File FileName="MovieProDemo/Models/Database/Movie.cs" Line="1" Column="1" />
+      <File FileName="MovieProDemo/Models/Database/MovieCrew.cs" />
+      <File FileName="MovieProDemo/Models/Database/Collection.cs" />
+      <File FileName="MovieProDemo/Models/Database/Movie.cs" />
       <File FileName="MovieProDemo/Models/ViewModels/LandingPageVM.cs" Line="1" Column="1" />
+      <File FileName="MovieProDemo/Services/Interfaces/IRemoteMovieService.cs" Line="17" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MovieProDemo" expanded="True">
             <Node name="MovieProDemo" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="ViewModels" expanded="True">
-                  <Node name="LandingPageVM.cs" selected="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="IRemoteMovieService.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
