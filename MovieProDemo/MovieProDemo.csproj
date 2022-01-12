@@ -16,8 +16,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Models\ViewModels\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 </Project>
