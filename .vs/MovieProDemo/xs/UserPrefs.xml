@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{9EBD5E98-8875-4D0F-85D2-A45B3C291E03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Services/Interfaces/IImageService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Startup.cs">
     <Files>
       <File FileName="MovieProDemo/Models/Database/MovieCast.CS" Line="22" Column="2" />
       <File FileName="MovieProDemo/Models/Database/MovieCrew.cs" />
       <File FileName="MovieProDemo/Models/Database/Collection.cs" />
       <File FileName="MovieProDemo/Models/Database/Movie.cs" />
-      <File FileName="MovieProDemo/Models/ViewModels/LandingPageVM.cs" Line="1" Column="1" />
-      <File FileName="MovieProDemo/Services/Interfaces/IRemoteMovieService.cs" Line="17" Column="2" />
-      <File FileName="MovieProDemo/Services/Interfaces/IDataMappingService.cs" Line="15" Column="2" />
-      <File FileName="MovieProDemo/Services/Interfaces/IImageService.cs" Line="1" Column="1" />
+      <File FileName="MovieProDemo/Models/ViewModels/LandingPageVM.cs" />
+      <File FileName="MovieProDemo/Services/Interfaces/IRemoteMovieService.cs" />
+      <File FileName="MovieProDemo/Services/Interfaces/IDataMappingService.cs" />
+      <File FileName="MovieProDemo/Services/Interfaces/IImageService.cs" Line="15" Column="2" />
+      <File FileName="MovieProDemo/Services/ConnectionService.cs" Line="12" Column="64" />
+      <File FileName="MovieProDemo/Startup.cs" Line="34" Column="59" />
+      <File FileName="MovieProDemo/Services/SeedService.cs" Line="77" Column="2" />
+      <File FileName="MovieProDemo/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,11 +21,8 @@
             <Node name="MovieProDemo" expanded="True">
               <Node name="Enums" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="Interfaces" expanded="True">
-                  <Node name="IImageService.cs" selected="True" />
-                </Node>
-              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
