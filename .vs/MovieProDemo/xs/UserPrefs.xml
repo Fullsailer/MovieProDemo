@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{9EBD5E98-8875-4D0F-85D2-A45B3C291E03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Program.cs">
     <Files>
       <File FileName="MovieProDemo/Models/Database/MovieCast.CS" Line="22" Column="2" />
       <File FileName="MovieProDemo/Models/Database/MovieCrew.cs" />
@@ -10,9 +10,9 @@
       <File FileName="MovieProDemo/Services/Interfaces/IDataMappingService.cs" />
       <File FileName="MovieProDemo/Services/Interfaces/IImageService.cs" Line="15" Column="2" />
       <File FileName="MovieProDemo/Services/ConnectionService.cs" Line="12" Column="64" />
-      <File FileName="MovieProDemo/Startup.cs" Line="34" Column="59" />
+      <File FileName="MovieProDemo/Startup.cs" Line="43" Column="50" />
       <File FileName="MovieProDemo/Services/SeedService.cs" Line="77" Column="2" />
-      <File FileName="MovieProDemo/Program.cs" Line="1" Column="1" />
+      <File FileName="MovieProDemo/Program.cs" Line="25" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +22,7 @@
               <Node name="Enums" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
