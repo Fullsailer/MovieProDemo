@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using MovieProDemo.Data;
 using MovieProDemo.Models.Settings;
 using MovieProDemo.Services;
+using MovieProDemo.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,12 +36,20 @@ namespace MovieProDemo
 
             services.AddDatabaseDeveloperPageExceptionFilter();
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+            .AddEntityFrameworkStores<ApplicationDbContext>();
+
+
+
+            services.AddHttpClient();
+
             services.AddControllersWithViews();
 
             services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
 
             services.AddTransient<SeedService>();
+            services.AddScoped<IRemoteMovieService, TMDBMovieService>();
+            services.AddSingleton<IImageService, BasicImageService>();
+            services.AddScoped<IDataMappingService, TMDBMappingService>();
 
         }
 
