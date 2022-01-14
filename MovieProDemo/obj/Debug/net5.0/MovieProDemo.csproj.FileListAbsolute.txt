@@ -406,3 +406,15 @@ C:/Users/johnb/Desktop/Coder Foundry Code/MovieProDemo/MovieProDemo/obj/Debug/ne
 /Users/johnflynnii/Documents/Github/MovieProDemo/MovieProDemo/obj/Debug/net5.0/MovieProDemo.dll
 /Users/johnflynnii/Documents/Github/MovieProDemo/MovieProDemo/obj/Debug/net5.0/ref/MovieProDemo.dll
 /Users/johnflynnii/Documents/Github/MovieProDemo/MovieProDemo/obj/Debug/net5.0/MovieProDemo.pdb
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.csproj.AssemblyReference.cache
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.AssemblyInfoInputs.cache
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.AssemblyInfo.cs
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.csproj.CoreCompileInputs.cache
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.RazorAssemblyInfo.cache
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.RazorAssemblyInfo.cs
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.dll
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\ref\MovieProDemo.dll
+C:\Users\johnb\Desktop\Coder Foundry Code\MovieProDemo\MovieProDemo\obj\Debug\net5.0\MovieProDemo.pdb
