@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{9EBD5E98-8875-4D0F-85D2-A45B3C291E03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="MovieProDemo/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MovieProDemo/Controllers/HomeController.cs" Line="32" Column="33" />
+      <File FileName="MovieProDemo/Controllers/MoviesController.cs" Line="12" Column="30" />
+      <File FileName="MovieProDemo/Data/ApplicationDbContext.cs" Line="18" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MovieProDemo" expanded="True">
             <Node name="MovieProDemo" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
               </Node>
               <Node name="Enums" expanded="True" />
               <Node name="Models" expanded="True">
