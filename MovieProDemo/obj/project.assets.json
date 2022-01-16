@@ -6781,26 +6781,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johnb\\.nuget\\packages\\": {}
+    "/Users/johnflynnii/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnb\\Desktop\\Coder Foundry Code\\MovieProDemo\\MovieProDemo\\MovieProDemo.csproj",
+      "projectUniqueName": "/Users/johnflynnii/Documents/Github/MovieProDemo/MovieProDemo/MovieProDemo.csproj",
       "projectName": "MovieProDemo",
-      "projectPath": "C:\\Users\\johnb\\Desktop\\Coder Foundry Code\\MovieProDemo\\MovieProDemo\\MovieProDemo.csproj",
-      "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnb\\Desktop\\Coder Foundry Code\\MovieProDemo\\MovieProDemo\\obj\\",
+      "projectPath": "/Users/johnflynnii/Documents/Github/MovieProDemo/MovieProDemo/MovieProDemo.csproj",
+      "packagesPath": "/Users/johnflynnii/.nuget/packages/",
+      "outputPath": "/Users/johnflynnii/Documents/Github/MovieProDemo/MovieProDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\johnb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/johnflynnii/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6866,7 +6864,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }

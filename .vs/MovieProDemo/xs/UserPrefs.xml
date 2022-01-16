@@ -1,28 +1,21 @@
 ﻿<Properties StartupConfiguration="{9EBD5E98-8875-4D0F-85D2-A45B3C291E03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieProDemo/Controllers/HomeController.cs">
     <Files>
-      <File FileName="MovieProDemo/Models/Database/MovieCast.CS" Line="22" Column="2" />
-      <File FileName="MovieProDemo/Models/Database/MovieCrew.cs" />
-      <File FileName="MovieProDemo/Models/Database/Collection.cs" />
-      <File FileName="MovieProDemo/Models/Database/Movie.cs" />
-      <File FileName="MovieProDemo/Models/ViewModels/LandingPageVM.cs" />
-      <File FileName="MovieProDemo/Services/Interfaces/IRemoteMovieService.cs" />
-      <File FileName="MovieProDemo/Services/Interfaces/IDataMappingService.cs" />
-      <File FileName="MovieProDemo/Services/Interfaces/IImageService.cs" Line="15" Column="2" />
-      <File FileName="MovieProDemo/Services/ConnectionService.cs" Line="12" Column="64" />
-      <File FileName="MovieProDemo/Startup.cs" Line="43" Column="50" />
-      <File FileName="MovieProDemo/Services/SeedService.cs" Line="77" Column="2" />
-      <File FileName="MovieProDemo/Program.cs" Line="25" Column="49" />
+      <File FileName="MovieProDemo/Controllers/HomeController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MovieProDemo" expanded="True">
             <Node name="MovieProDemo" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
               <Node name="Enums" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Database" expanded="True" />
+              </Node>
               <Node name="Services" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
